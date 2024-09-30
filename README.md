@@ -33,7 +33,8 @@ Decision Trees are a type of supervised learning algorithm used for classificati
 
 
 ### Decision Tree Visualization
-![image](https://github.com/user-attachments/assets/8b9de440-c4dc-4ad7-9b3c-e924feb87c4b)
+![image](https://github.com/user-attachments/assets/9240a87e-3e42-4a2f-86cd-3ed3aedc23c7)
+
 
 
 ### Scatter Plot with Decision Boundaries
